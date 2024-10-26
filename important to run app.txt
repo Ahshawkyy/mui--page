@@ -1,0 +1,22 @@
+first after download zipped file  
+-->npm install
+to install node modeules
+
+ this app build with ..MUI
+so you must npm it 
+---> npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+
+and before run app npm JSON-server
+---> npm install -g json-server
+---> npx json-server --watch data/db.json --port 3100
+then npm it npm json-server --watch data/db.json --port 3100
+
+then run app normaly 
+---> npm start
+
+
+======================
+======================
+=====Ahmed Shawky=====
+====================== 
+======================
